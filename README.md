@@ -1,6 +1,3 @@
-Here's the copyable text:
-
-```
 # google-chat-viewer
 
 A cross-platform terminal viewer for **Google Chat Takeout exports**.
@@ -181,4 +178,9 @@ No need for `less` — pager is handled internally by Python.
 ## 🤝 Contributing
 
 Pull requests and suggestions are welcome!
-```
+
+## 📄 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+See the [LICENSE](LICENSE) file for details.
